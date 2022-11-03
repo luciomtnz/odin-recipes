@@ -1,2 +1,2 @@
 # odin-recipes
-This is my final test of knowledge
+Tasty recipes you can do at home
